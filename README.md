@@ -7,7 +7,7 @@
 
 
 ## 📚 project created to
-  - study programmming
+  - study programming
 
 ## 📑 how to test it
   ```
